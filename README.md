@@ -32,10 +32,10 @@ The dataset is structured with the following columns:
 
 1. **Select all columns from the dataset:**
 2. **Filter data for a specific year:**
-3. ****
-4. ****
-5. ****
-6. ****
+3. **Count the number of rows in the dataset:**
+4. **Find the unique themes in the dataset:**
+5. **Calculate the average rating:**
+6. **Find the highest USD_MSRP:**
 7. ****
 8. ****
 9. ****
