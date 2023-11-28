@@ -78,7 +78,7 @@ The dataset is structured with the following columns:
 ## Instructions for Use
 # 1. Dataset Loading:
 
-Ensure that you have the dataset file (your_dataset.csv) available.
+Ensure that you have the dataset file (Lego_set_data.csv) available.
 Modify the file name in the queries to match the actual file name.
 Executing Queries:
 
