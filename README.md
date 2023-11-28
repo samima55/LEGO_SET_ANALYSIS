@@ -36,14 +36,14 @@ The dataset is structured with the following columns:
 4. **Find the unique themes in the dataset:**
 5. **Calculate the average rating:**
 6. **Find the highest USD_MSRP:**
-7. ****
-8. ****
-9. ****
-10. ****
-11. ****
-12. ****
-13. ****
-14. ****
+7. **Show the top 10 highest-rated sets**
+8. **Count the number of sets in each theme:**
+9. **Find the average USD_MSRP for each year:**
+10. **List the sets with more than 500 pieces:**
+11. **Calculate the total number of pieces for each theme:**
+12. **Find the sets with the highest number of minifigures:**
+13. **Count the number of sets in each category for a specific year:**
+14. **Calculate the average number of minifigures for each theme group:**
 15. ****
 16. ****
 17. ****
